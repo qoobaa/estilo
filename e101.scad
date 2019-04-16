@@ -12,6 +12,6 @@ difference() {
 
 linear_extrude(1) shape();
 
-translate([0.15, 18.5, 0]) cube([1, 42, 10]);
+translate([0.15, 18.5, 0]) cube([1, 41.5, 10]);
 translate([6.5, 24, 0]) cube([1, 17.5, 10]);
 translate([5.5, 32, 0]) cube([1, 3.5, 10]);
